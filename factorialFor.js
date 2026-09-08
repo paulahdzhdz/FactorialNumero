@@ -13,3 +13,5 @@ let numero = 5;
 let resultado = factorial(numero);
 
 console.log("El factorial de " + numero + " es: " + resultado);
+
+console.log(factorialIterativo(5));
